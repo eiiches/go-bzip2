@@ -14,7 +14,7 @@ go get github.com/eiiches/go-bzip2
 ```
 
 ```go
-import "github.com/eiiches/go-bzip2/compress/bzip2"
+import "github.com/eiiches/go-bzip2"
 ```
 
 Example
