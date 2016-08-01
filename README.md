@@ -45,3 +45,8 @@ for {
 	}
 }
 ```
+
+License
+-------
+
+This project is licensed under the terms of the 3-clause BSD license. See [LICENSE.txt](LICENSE.txt) for the full license text.
